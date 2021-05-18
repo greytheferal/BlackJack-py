@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Game - BlackJack", "Game - BlackJack\Game - BlackJack.pyproj", "{5A5D6A4E-02BE-4646-ABA8-9F0324EF1690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A5D6A4E-02BE-4646-ABA8-9F0324EF1690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5D6A4E-02BE-4646-ABA8-9F0324EF1690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {575B3356-8891-413C-BDE6-8D691B27A516}
+	EndGlobalSection
+EndGlobal
